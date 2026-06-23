@@ -3,7 +3,7 @@
 A Spotify-inspired frontend clone built using HTML and CSS. This project recreates the layout and design of the Spotify Web Player interface to practice modern frontend development concepts such as flexbox, responsive design, and UI structuring.
 
 ## 📸 Preview
-
+![Spotify Frontend Clone](assets/screenshot.png)
 ## 🚀 Features
 
 * Spotify-inspired user interface

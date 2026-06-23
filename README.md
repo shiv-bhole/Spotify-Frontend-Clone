@@ -59,14 +59,6 @@ This project was created to improve my understanding of:
 * Responsive web design
 * Building real-world user interfaces
 
-## 🔮 Future Improvements
-
-* Add JavaScript functionality
-* Implement music player controls
-* Add search functionality
-* Improve mobile responsiveness
-* Create dynamic playlists
-
 ## ⚠️ Disclaimer
 
 This project is a frontend clone created for educational and learning purposes only. It is not affiliated with or endorsed by Spotify.

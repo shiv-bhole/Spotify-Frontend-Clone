@@ -28,8 +28,8 @@ A Spotify-inspired frontend clone built using HTML and CSS. This project recreat
 ```text
 Spotify-Clone-Frontend/
 │
-├── spotify.html
-├── spotify.css
+├── index.html
+├── style.css
 ├── assets/
 │   ├── images
 │   ├── icons
@@ -47,7 +47,7 @@ git clone https://github.com/shiv-bhole/Spotify-Clone-Frontend.git
 
 2. Open the project folder.
 
-3. Open `spotify.html` in your browser.
+3. Open `index.html` in your browser.
 
 ## 🎯 Purpose
 
